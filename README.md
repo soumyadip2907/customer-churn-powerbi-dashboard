@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard (Power BI)
 
-A two-page Power BI dashboard that shows how many customers a telecom company is losing, which customer segments churn the most, and how much revenue is lost. It is built on top of my earlier [Customer Churn Analysis using PostgreSQL](#) project (add the link to your SQL repository).
+A two-page Power BI dashboard that shows how many customers a telecom company is losing, which customer segments churn the most, and how much revenue is lost. It is built on top of my earlier [Customer Churn Analysis using PostgreSQL](#) project ([add the link to your SQL repository](https://github.com/soumyadip2907/Customer-Churn-SQL-Analysis)).
 
 ## Dashboard Preview
 
